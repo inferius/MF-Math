@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MF_Math", "MF_Math\MF_Math.csproj", "{992956A8-56B6-42C0-9A76-579B96BF6EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCHALosoft.Math", "MiCHALosoft.Math\MiCHALosoft.Math.csproj", "{9CD77F20-C38E-48EF-A5F7-51D7F3E74833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingApp", "TestingApp\TestingApp.csproj", "{26AC43C9-C09B-497F-869A-1484D1998A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992956A8-56B6-42C0-9A76-579B96BF6EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992956A8-56B6-42C0-9A76-579B96BF6EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992956A8-56B6-42C0-9A76-579B96BF6EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992956A8-56B6-42C0-9A76-579B96BF6EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD77F20-C38E-48EF-A5F7-51D7F3E74833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD77F20-C38E-48EF-A5F7-51D7F3E74833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD77F20-C38E-48EF-A5F7-51D7F3E74833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD77F20-C38E-48EF-A5F7-51D7F3E74833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26AC43C9-C09B-497F-869A-1484D1998A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AC43C9-C09B-497F-869A-1484D1998A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AC43C9-C09B-497F-869A-1484D1998A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AC43C9-C09B-497F-869A-1484D1998A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
